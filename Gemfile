@@ -32,6 +32,8 @@ gem 'puma', '~> 2.11.0'
 
 gem 'devise', '~> 3.4.1'
 
+gem 'bootstrap-sass', '~> 3.3.3'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
