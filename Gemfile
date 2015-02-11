@@ -30,6 +30,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'unicorn'
 gem 'puma', '~> 2.11.0'
 
+gem 'devise', '~> 3.4.1'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
